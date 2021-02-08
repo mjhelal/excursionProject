@@ -10,6 +10,19 @@ header > h1 {
     text-align: center;
 }
 
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    font-size: 21px;
+}
+
 nav,a {
     color: aquamarine;
     font-size: 16px;
@@ -17,3 +30,12 @@ nav,a {
 }
 
 
+article {
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 30px;
+}
